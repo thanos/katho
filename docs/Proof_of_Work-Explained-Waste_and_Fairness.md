@@ -2,6 +2,8 @@
 
 # **A Cryptoeconomic and Technical Analysis of Proof-of-Work: Deconstructing the "Cost" of Trustless Consensus**
 
+by Thanos Vassilakis
+
 ## **Section 1: The Foundational Problem: Achieving Digital Scarcity and Consensus**
 
 The Proof-of-Work (PoW) consensus mechanism, particularly as implemented by Bitcoin, is frequently misunderstood as an arbitrary or inefficient system. Its design, however, is a deliberate and robust solution to a set of fundamental problems in distributed computing and digital economics that remained unsolved for decades. The system's perceived flaws—specifically its high energy consumption and competitive "unfairness"—are not accidental byproducts but are, in fact, the very mechanisms that ensure its security and functionality in a trustless environment.1
