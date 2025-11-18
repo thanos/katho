@@ -2,6 +2,8 @@
 
 # **An In-Depth Analysis of At-Home Blockchain Node Operation: Profitability, Risk, and Strategic Outlook for 2025**
 
+by Thanos Vassilakis
+
 ## **Executive Summary: The 2025 Landscape for At-Home Node Operators**
 
 The opportunity for individuals to earn income by running a blockchain node from home has evolved significantly. As of 2025, the market is no longer a monolith but has fragmented into three distinct operational and economic models:
