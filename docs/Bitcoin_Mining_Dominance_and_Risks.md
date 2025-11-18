@@ -2,6 +2,8 @@
 
 # **The Great Hashrate Migration: An Evidentiary Analysis of National Dominance in Bitcoin Mining and the Rise of US Centralization**
 
+by Thanos Vassilakis
+
 
 
 This report provides a definitive, evidence-based answer to the query of whether any single country has demonstrated dominance in cryptocurrency mining. The analysis reveals an unequivocal "yes," but this dominance is not static. The evidence presents a clear, two-act narrative detailing a seismic shift in global power over the last five years.
